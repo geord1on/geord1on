@@ -7,11 +7,13 @@
 
 - My thesis project about ilegal informatics [TrojanCallBlocker](https://github.com/geord1on/TrojanCallBlocker)
 
-- 🌱 I’m currently learning **Java,**
+- 📴 I am absent due to **military service**
 
 - 👨‍💻 All of my projects are available at [https://github.com/geord1on](https://github.com/geord1on)
 
-- 📫 How to reach me **georgediongr@gmail.com**
+- 🎥 Check my [**Youtube**](https://www.youtube.com/@d1onn) 
+
+- 📫 Contact with me **georgediongr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
