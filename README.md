@@ -7,7 +7,7 @@
 
 - My thesis project about ilegal informatics [TrojanCallBlocker](https://github.com/geord1on/TrojanCallBlocker)
 
-- 🪖 I am absent due to **military service**
+- 🪖 I am absent due to **military service** until May 25'
 
 - 🗃️ When I have time I upload them [Here](https://github.com/geord1on?tab=repositories)
 
