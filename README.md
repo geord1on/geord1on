@@ -9,7 +9,7 @@
 
 - 📴 I am absent due to **military service**
 
-- 👨‍💻 All of my projects are available [Here](https://github.com/geord1on)
+- 👨‍💻 All of my projects are available [Here](https://github.com/geord1on?tab=repositories)
 
 - 🎥 Check my [**Youtube**](https://www.youtube.com/@d1onn) 
 
@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/george-dionysiou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/george-dionysiou" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/grdion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="grdion" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@d1onn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="grdion" height="30" width="40" /></a>
 <a href="https://discord.gg/.d1on" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".d1on" height="30" width="40" /></a>
 </p>
 
