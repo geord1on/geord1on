@@ -13,7 +13,6 @@
 
 - 🎥 Check my [**Youtube**](https://www.youtube.com/@d1onn) 
 
-- 📫 Contact with me **georgediongr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
