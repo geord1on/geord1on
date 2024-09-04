@@ -7,7 +7,7 @@
 
 - My thesis project about ilegal informatics [TrojanCallBlocker](https://github.com/geord1on/TrojanCallBlocker)
 
-- 🌱 I’m currently learning **Java,**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/geord1on](https://github.com/geord1on)
 
