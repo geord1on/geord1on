@@ -9,7 +9,7 @@
 
 - 📴 I am absent due to **military service**
 
-- 👨‍💻 All of my projects are available at [https://github.com/geord1on](https://github.com/geord1on)
+- 👨‍💻 All of my projects are available [Here](https://github.com/geord1on)
 
 - 🎥 Check my [**Youtube**](https://www.youtube.com/@d1onn) 
 
