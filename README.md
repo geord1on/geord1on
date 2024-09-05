@@ -1,6 +1,6 @@
-## Whoami 🕵🏽‍♂️
 
-<h1 align="center">Hi 👋, I'm George Dion</h1>
+
+<h1 align="center"> Whoami 🕵🏽‍♂️</h1>
 <h3 align="center"> Im an undergraduate student in the Computer Science Department of AuTh 🇬🇷 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geord1on&label=Profile%20views&color=0e75b6&style=flat" alt="geord1on" /> </p>
