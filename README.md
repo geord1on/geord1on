@@ -1,7 +1,7 @@
 
 
 <h1 align="center"> Whoami 🕵🏽‍♂️</h1>
-<h3 align="center"> Im an undergraduate student in the Computer Science Department of AuTh 🇬🇷 </h3>
+<h3 align="center"> ɪ'ᴍ ᴀ 24-ʏᴇᴀʀ-ᴏʟᴅ ᴄᴏᴍᴘᴜᴛᴇʀ ꜱᴄɪᴇɴᴄᴇ ɢʀᴀᴅᴜᴀᴛᴇ of AuTh 🇬🇷 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geord1on&label=Profile%20views&color=0e75b6&style=flat" alt="geord1on" /> </p>
 
